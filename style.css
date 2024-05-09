@@ -43,12 +43,15 @@ input{
     background-color: #cfd6e1;
     outline: none;
     border: none;
+    font-size: 15px;
+    font-weight: bolder;
 }
 
  input::placeholder{
-    text-align: right;
-    font-size: xx-large;
+    text-align: left;
+    font-size: 15px;
     font-family: Arial, sans-serif; 
+    font-weight: bolder;
 } 
 
 #equal{
